@@ -1,4 +1,3 @@
-#i`ll edit soon for more func
 import requests
 import os
 import time
@@ -71,3 +70,4 @@ def main_menu():
 
 if __name__ == "__main__":
     main_menu()
+    #i`ll edit soon for more func

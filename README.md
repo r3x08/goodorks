@@ -5,6 +5,6 @@
 <pre><code>pip install requests fake-useragent beautifulsoup4</code></pre>
 <p>This will launch the main menu of the Goodorks script, where you can choose either to specify the dorks for a user-input domain or scan dorks from a file. If you choose to specify the dorks, you will be prompted to enter the domain to use. The script will then retrieve the list of dorks, parse them for the specified domain, and save the parsed dorks to a file named "dorks.txt". If you choose to scan dorks from a file, the script will read the dorks from the "dorks.txt" file and retrieve the search results from Google for each dork.</p>
 <h4>Screenshot</h4>
-<img href="https://user-images.githubusercontent.com/109206637/218198191-a5e1e60e-33fb-4078-b96f-239c4e23b6aa.png" width="400px" height="400px">
+<img src="https://user-images.githubusercontent.com/109206637/218198873-e1d56166-f623-467d-8beb-df18387a3f62.png" width="600px" height="400px">
 <h4>Contributing</h4>
 <p>If you would like to contribute to the Goodorks script, feel free to submit a pull request to the repository on GitHub.</p>
